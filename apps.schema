@@ -1,0 +1,13 @@
+CREATE TABLE applications (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    short TEXT NOT NULL,
+    icon TEXT,
+    link TEXT NOT NULL,
+    preview TEXT,
+    date TEXT,
+    author TEXT,
+    portauthor TEXT,
+    homepage TEXT,
+    description TEXT
+);
