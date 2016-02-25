@@ -45,7 +45,7 @@
                 <xsl:call-template name="string-replace-all">
                     <xsl:with-param name="text" select="description"/>
                 </xsl:call-template>
-            </xsl:variable>INSERT INTO applications (name, short, icon, link, preview, date, author, portauthor, homepage, description) VALUES ('<xsl:value-of select="$name"/>', '<xsl:value-of select="$short"/>', '<xsl:value-of select="icon"/>', '<xsl:value-of select="link"/>', '<xsl:value-of select="preview"/>', '<xsl:value-of select="date"/>', '<xsl:value-of select="$author"/>', '<xsl:value-of select="$portauthor"/>', '<xsl:value-of select="homepage"/>', '<xsl:value-of select="$description"/>');
+            </xsl:variable>INSERT INTO apps (name, short, icon, link, preview, date, author, portauthor, homepage, description) VALUES ('<xsl:value-of select="$name"/>', '<xsl:value-of select="$short"/>', '<xsl:value-of select="icon"/>', '<xsl:value-of select="link"/>', '<xsl:value-of select="preview"/>', '<xsl:value-of select="date"/>', '<xsl:value-of select="$author"/>', '<xsl:value-of select="$portauthor"/>', '<xsl:value-of select="homepage"/>', '<xsl:value-of select="$description"/>');
 </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
