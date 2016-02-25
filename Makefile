@@ -1,6 +1,12 @@
-all: db/repos.db db/official.db
+DATABASES=db/repos.db db/apps.db db/official.db
+
+all: ${DATABASES}
 
 db/repos.db: repos.schema repos.data
+	mkdir -p db
+	cat $^ | sqlite3 $@
+
+db/apps.db: apps.schema
 	mkdir -p db
 	cat $^ | sqlite3 $@
 
@@ -12,4 +18,4 @@ db/official.db: apps.schema apps-official.data
 	cat $^ | sqlite3 $@
 
 clean:
-	rm -f db/repos.db db/official.db
+	rm -f ${DATABASES}
