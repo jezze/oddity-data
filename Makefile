@@ -13,7 +13,7 @@ db/apps.db: apps.schema packages.schema
 apps-official.data: data.xsl data.xml
 	xsltproc data.xsl data.xml > $@
 
-db/official.db: apps.schema apps-official.data packages.schema packages.data
+db/official.db: apps.schema apps-official.data packages.schema packages-official.data
 	mkdir -p db
 	cat $^ | sqlite3 $@
 
