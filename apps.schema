@@ -3,7 +3,6 @@ CREATE TABLE apps (
     name TEXT NOT NULL,
     short TEXT NOT NULL,
     icon TEXT,
-    link TEXT NOT NULL,
     preview TEXT,
     date TEXT,
     author TEXT,
