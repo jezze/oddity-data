@@ -19,3 +19,4 @@ db/official.db: apps.schema apps-official.data packages.schema packages-official
 
 clean:
 	rm -f ${DATABASES}
+	rm -rf db
