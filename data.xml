@@ -3,8 +3,8 @@
   <game>
     <name>Shisen-Seki</name>
     <short>A game of Shisen-Sho</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=Shisen-Seki.opk</link>
+    <icon>game_128.png</icon>
+    <link>Shisen-Seki.opk</link>
     <preview>files/upload/img/shisen01.png</preview>
     <date>Monday, 28 Dec 2015</date>
     <author>Artur Rojek (zear), Joe Vargas (jxv)</author>
@@ -15,8 +15,8 @@
   <game>
     <name>Hase</name>
     <short>Worms-style shooter featuring bunnies</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=hase.opk</link>
+    <icon>game_128.png</icon>
+    <link>hase.opk</link>
     <preview>files/upload/img/hase_screenshot_gcw_ingame3.png</preview>
     <date>Wednesday, 18 Nov 2015</date>
     <author>Ziz</author>
@@ -27,8 +27,8 @@
   <game>
     <name>Oswan</name>
     <short>WonderSwan emulator</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=oswan.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>oswan.opk</link>
     <preview>files/upload/img/oswan.png</preview>
     <date>Wednesday, 18 Nov 2015</date>
     <author>bird_may_nike, alekmaul</author>
@@ -39,8 +39,8 @@
   <game>
     <name>Fruit'Y</name>
     <short>Playing with edibles</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=fruity_v1.00.opk</link>
+    <icon>game_128.png</icon>
+    <link>fruity_v1.00.opk</link>
     <preview>files/upload/img/fruity_1.png</preview>
     <date>Saturday, 07 Nov 2015</date>
     <author>Retroguru</author>
@@ -51,8 +51,8 @@
   <game>
     <name>Meteoroid3D</name>
     <short>Stereoscopic arcade 3D shooter.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=meteoroid3d.opk</link>
+    <icon>game_128.png</icon>
+    <link>meteoroid3d.opk</link>
     <preview>files/upload/img/meteoroid3d.png</preview>
     <date>Sunday, 20 Sep 2015</date>
     <author>Ziz</author>
@@ -63,8 +63,8 @@
   <game>
     <name>Super Transball 2</name>
     <short>"Thrust" style arcade game</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=stransball2_r1.opk</link>
+    <icon>game_128.png</icon>
+    <link>stransball2_r1.opk</link>
     <preview>files/upload/img/stransball2_2.png</preview>
     <date>Sunday, 12 Jul 2015</date>
     <author>Santi Ontañón Villar</author>
@@ -75,8 +75,8 @@
   <game>
     <name>Sissi</name>
     <short>An IRC client</short>
-    <icon>images/icons/application_128.png</icon>
-    <link>file.php?file=sissi.opk</link>
+    <icon>application_128.png</icon>
+    <link>sissi.opk</link>
     <preview>files/upload/img/sissi.png</preview>
     <date>Friday, 12 Jun 2015</date>
     <author>Ziz</author>
@@ -87,8 +87,8 @@
   <game>
     <name>uHexen 2</name>
     <short>A dark fantasy FPS game by Raven Software</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=hexen2.opk</link>
+    <icon>game_128.png</icon>
+    <link>hexen2.opk</link>
     <preview>files/upload/img/</preview>
     <date>Friday, 12 Jun 2015</date>
     <author>Raven Software</author>
@@ -99,8 +99,8 @@
   <game>
     <name>Falling Time</name>
     <short>Guide a falling ball through blocks. Avoid getting crushed!</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=falling_time.opk</link>
+    <icon>game_128.png</icon>
+    <link>falling_time.opk</link>
     <preview>files/upload/img/fallingtime.png</preview>
     <date>Sunday, 17 May 2015</date>
     <author>cxong, Nebuleon, Gab1975 and others</author>
@@ -111,8 +111,8 @@
   <game>
     <name>Nampure</name>
     <short>Classic Number Place game, also known as Sudoku®</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=nampure-0.5.opk</link>
+    <icon>game_128.png</icon>
+    <link>nampure-0.5.opk</link>
     <preview>files/upload/img/nampure-gameplay.png</preview>
     <date>Sunday, 17 May 2015</date>
     <author>Jeremy (Remjey) Farnaud</author>
@@ -123,8 +123,8 @@
   <game>
     <name>Meritous</name>
     <short>An action-adventure dungeon crawl game.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=meritous_r1.opk</link>
+    <icon>game_128.png</icon>
+    <link>meritous_r1.opk</link>
     <preview>files/upload/img/meritous_1.png</preview>
     <date>Saturday, 16 May 2015</date>
     <author>Lancer-X/Asceai</author>
@@ -135,8 +135,8 @@
   <game>
     <name>L'Abbaye des Morts</name>
     <short>Adventure game inspired by classic ZX-Spectrum titles.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=abbaye.opk</link>
+    <icon>game_128.png</icon>
+    <link>abbaye.opk</link>
     <preview>files/upload/img/abbaye-img.png</preview>
     <date>Thursday, 14 May 2015</date>
     <author>Locomalito and David Lara</author>
@@ -147,8 +147,8 @@
   <game>
     <name>Ri-li</name>
     <short>Pick up the coaches, but don't wreck the train!</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=Ri-li.opk</link>
+    <icon>game_128.png</icon>
+    <link>Ri-li.opk</link>
     <preview>files/upload/img/ri-li.png</preview>
     <date>Saturday, 28 Mar 2015</date>
     <author>Dominique Roux-Serret</author>
@@ -159,8 +159,8 @@
   <game>
     <name>Handy</name>
     <short>Atari Lynx emulator</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=handy.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>handy.opk</link>
     <preview>files/upload/img/handy.png</preview>
     <date>Saturday, 28 Mar 2015</date>
     <author>Keith Wilkins</author>
@@ -171,8 +171,8 @@
   <game>
     <name>JzIntellivision</name>
     <short>Intellivision emulator</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=jzIntv.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>jzIntv.opk</link>
     <preview>files/upload/img/jzIntv.png</preview>
     <date>Saturday, 21 Mar 2015</date>
     <author>Joe Zbiciak</author>
@@ -183,8 +183,8 @@
   <game>
     <name>The Ur-Quan Masters</name>
     <short>An inter-galatic adventure game.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=uqm-2014-11-23.opk</link>
+    <icon>game_128.png</icon>
+    <link>uqm-2014-11-23.opk</link>
     <preview>files/upload/img/uqm.png</preview>
     <date>Sunday, 15 Mar 2015</date>
     <author>Toys For Bob, UQM team</author>
@@ -195,8 +195,8 @@
   <game>
     <name>FBA 0.2.97.35</name>
     <short>Arcade machines emulator</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=fba.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>fba.opk</link>
     <preview>files/upload/img/0_9d420_ed745804_L.png</preview>
     <date>Wednesday, 11 Mar 2015</date>
     <author>Team FB Alpha</author>
@@ -207,8 +207,8 @@
   <game>
     <name>FreeBlocks</name>
     <short>A puzzle game similar to Tetris Attack.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=freeblocks.opk</link>
+    <icon>game_128.png</icon>
+    <link>freeblocks.opk</link>
     <preview>files/upload/img/freeblocks.png</preview>
     <date>Tuesday, 10 Mar 2015</date>
     <author>Justin "dorkster" Jacobs</author>
@@ -219,8 +219,8 @@
   <game>
     <name>Nanobounce</name>
     <short>A frustrating bouncing-ball game.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=nanobounce-04b-gcw0-free.opk</link>
+    <icon>game_128.png</icon>
+    <link>nanobounce-04b-gcw0-free.opk</link>
     <preview>files/upload/img/nanobounce.png</preview>
     <date>Saturday, 07 Mar 2015</date>
     <author>Carl Reinke (Mindless)</author>
@@ -231,8 +231,8 @@
   <game>
     <name>glutexto</name>
     <short>A very simple text editor.</short>
-    <icon>images/icons/application_128.png</icon>
-    <link>file.php?file=glutexto.opk</link>
+    <icon>application_128.png</icon>
+    <link>glutexto.opk</link>
     <preview>files/upload/img/glutexto.png</preview>
     <date>Sunday, 08 Feb 2015</date>
     <author>Ziz</author>
@@ -243,8 +243,8 @@
   <game>
     <name>Triple Trapled</name>
     <short>Game about stacking blocks</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=tripleTrapled_v0.9.opk</link>
+    <icon>game_128.png</icon>
+    <link>tripleTrapled_v0.9.opk</link>
     <preview>files/upload/img/tt.png</preview>
     <date>Wednesday, 31 Dec 2014</date>
     <author>Artur "zear" Rojek</author>
@@ -255,8 +255,8 @@
   <game>
     <name>OhBoy</name>
     <short>Gameboy/GBC emulator.</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=Ohboy_20141226.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>Ohboy_20141226.opk</link>
     <preview>files/upload/img/screenshot069.png</preview>
     <date>Friday, 26 Dec 2014</date>
     <author>Ubyte, Fishybawb, Clach04</author>
@@ -267,8 +267,8 @@
   <game>
     <name>Giana's Return</name>
     <short>Unofficial sequel of "The Great Giana Sisters"</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=gianas-return_v1.10.opk</link>
+    <icon>game_128.png</icon>
+    <link>gianas-return_v1.10.opk</link>
     <preview>files/upload/img/giana.png</preview>
     <date>Wednesday, 24 Dec 2014</date>
     <author>Retroguru</author>
@@ -279,8 +279,8 @@
   <game>
     <name>SDL Sand</name>
     <short>Falling sand simulation</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=sdlsand.opk</link>
+    <icon>game_128.png</icon>
+    <link>sdlsand.opk</link>
     <preview>files/upload/img/sdlsand.png</preview>
     <date>Saturday, 06 Dec 2014</date>
     <author>Thomas René Sidor, Kristian Jensen</author>
@@ -291,8 +291,8 @@
   <game>
     <name>Seahorse Adventures</name>
     <short>You're a seahorse, and you want to go to the Moon!</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=barbiesa-1.1.5.opk</link>
+    <icon>game_128.png</icon>
+    <link>barbiesa-1.1.5.opk</link>
     <preview>files/upload/img/barbiesa-1-1.png</preview>
     <date>Saturday, 06 Dec 2014</date>
     <author>The Olde Battleaxe (philhassey, pekuja, tim, drpetter, trick)</author>
@@ -303,8 +303,8 @@
   <game>
     <name>Neverball / Neverputt</name>
     <short>A pair of addictive physics-based 3D games.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=neverball.opk</link>
+    <icon>game_128.png</icon>
+    <link>neverball.opk</link>
     <preview>files/upload/img/screenshot031.png</preview>
     <date>Wednesday, 03 Dec 2014</date>
     <author>Robert Kooima</author>
@@ -324,8 +324,8 @@
   <game>
     <name>UAE4ALL</name>
     <short>Amiga 500 emulator</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=uae4all.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>uae4all.opk</link>
     <preview>files/upload/img/uae4all.png</preview>
     <date>Tuesday, 02 Dec 2014</date>
     <author>UAE team, Chui</author>
@@ -336,8 +336,8 @@
   <game>
     <name>Worship Vector</name>
     <short>Tower Defense game with simplistic graphics.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=wvector.opk</link>
+    <icon>game_128.png</icon>
+    <link>wvector.opk</link>
     <preview>files/upload/img/wv.png</preview>
     <date>Thursday, 27 Nov 2014</date>
     <author>Quasist</author>
@@ -348,8 +348,8 @@
   <game>
     <name>Enigma</name>
     <short>To say that Enigma is a puzzle game is an understatement.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=enigma.opk</link>
+    <icon>game_128.png</icon>
+    <link>enigma.opk</link>
     <preview>files/upload/img/screenshot003.png</preview>
     <date>Monday, 17 Nov 2014</date>
     <author>Enigma Team</author>
@@ -360,8 +360,8 @@
   <game>
     <name>Finite</name>
     <short>Word game</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=finite.opk</link>
+    <icon>game_128.png</icon>
+    <link>finite.opk</link>
     <preview>files/upload/img/finite.png</preview>
     <date>Saturday, 15 Nov 2014</date>
     <author>Joe Vargas (jxv)</author>
@@ -372,8 +372,8 @@
   <game>
     <name>rRootage</name>
     <short>GPU-accelerated 'bullet-hell' shoot-em-up game</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=rrootage.opk</link>
+    <icon>game_128.png</icon>
+    <link>rrootage.opk</link>
     <preview>files/upload/img/rrootage.png</preview>
     <date>Sunday, 09 Nov 2014</date>
     <author>Kenta Cho</author>
@@ -384,8 +384,8 @@
   <game>
     <name>Slappa!</name>
     <short>Arcade kungfu minigame</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=slappa.opk</link>
+    <icon>game_128.png</icon>
+    <link>slappa.opk</link>
     <preview>files/upload/img/slappa.png</preview>
     <date>Sunday, 26 Oct 2014</date>
     <author>cxong</author>
@@ -396,8 +396,8 @@
   <game>
     <name>WetSpot 2</name>
     <short>Action puzzle game similar to Pengo.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=wetspot2.opk</link>
+    <icon>game_128.png</icon>
+    <link>wetspot2.opk</link>
     <preview>files/upload/img/shot0022.gif</preview>
     <date>Friday, 24 Oct 2014</date>
     <author>Angelo Mottola (coding, gfx), Drozerix (music)</author>
@@ -408,8 +408,8 @@
   <game>
     <name>Koules</name>
     <short>A wacky physics-based arcade game... in space</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=koules.opk</link>
+    <icon>game_128.png</icon>
+    <link>koules.opk</link>
     <preview>files/upload/img/koules_screenshot.png</preview>
     <date>Saturday, 04 Oct 2014</date>
     <author>Jan Hubicka</author>
@@ -420,8 +420,8 @@
   <game>
     <name>Liero</name>
     <short>An old-school earthworm action game</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=liero.opk</link>
+    <icon>game_128.png</icon>
+    <link>liero.opk</link>
     <preview>files/upload/img/liero.png</preview>
     <date>Friday, 03 Oct 2014</date>
     <author>Joosa Riekkinen, Erik Lindroos and others</author>
@@ -432,8 +432,8 @@
   <game>
     <name>ReGBA 1.45.5</name>
     <short>GBA emulator for the GCW Zero</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=regba-1.45.5.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>regba-1.45.5.opk</link>
     <preview>files/upload/img/ReGBA GEMini no scaling.png</preview>
     <date>Thursday, 28 Aug 2014</date>
     <author>Exophase, Gradius, Takka, Normmatt, Nebuleon, others</author>
@@ -444,20 +444,20 @@
   <game>
     <name>PocketSNES 2014-08-24</name>
     <short>Super Nintendo emulator based on Snes9x 1.43</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=PocketSNES-20140824-1.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>PocketSNES-20140824-1.opk</link>
     <preview>files/upload/img/pocketsnes-hiban-menu.png</preview>
     <date>Thursday, 28 Aug 2014</date>
     <author>Snes9x team (anomie, zones, Nach, byuu, Mkendora, etc.)</author>
     <portauthor>Paul Cercueil, Nebuleon, hi-ban</portauthor>
     <homepage>https://github.com/Nebuleon/PocketSNES</homepage>
-    <description>IMPORTANT: This version is unable to read PocketSNES August 2013 (Snes9x 1.39)'s saved states, but can read its SRAM (.srm) files. If you have older saved states, you can use <a href="http://www.gcw-zero.com/file.php?file=PocketSNES.opk">the older version of PocketSNES</a> or, before installing this version, load the saved states in PocketSNES August 2013 and let the game save its SRAM.<br/> <br/> PocketSNES is a Super Nintendo/Super Famicom emulator for the GCW Zero. It is ultimately based on Snes9x 1.43 and contains some minor core optimisations by Nebuleon.<br/> <br/> It features audio with under 60 ms latency, optional full-screen scaling with a fast scaler or an approximate bilinear scaler, SRAM saving and saved states. All settings can be overridden per game.<br/> <br/> <b>Unified menu</b> means that this emulator's menu can be entered with Start+Select or by flicking the Power switch upwards without pressing other buttons.<br/> <br/> You can read its manual at <a href="http://wiki.gcw-zero.com/PocketSNES">http://wiki.gcw-zero.com/PocketSNES</a> and on your GCW Zero.<br/> <br/> Source code is at <a href="https://github.com/Nebuleon/PocketSNES">https://github.com/Nebuleon/PocketSNES</a> under the Snes9x non-commercial use license.</description>
+    <description>IMPORTANT: This version is unable to read PocketSNES August 2013 (Snes9x 1.39)'s saved states, but can read its SRAM (.srm) files. If you have older saved states, you can use <a href="http://www.gcw-zero.com/PocketSNES.opk">the older version of PocketSNES</a> or, before installing this version, load the saved states in PocketSNES August 2013 and let the game save its SRAM.<br/> <br/> PocketSNES is a Super Nintendo/Super Famicom emulator for the GCW Zero. It is ultimately based on Snes9x 1.43 and contains some minor core optimisations by Nebuleon.<br/> <br/> It features audio with under 60 ms latency, optional full-screen scaling with a fast scaler or an approximate bilinear scaler, SRAM saving and saved states. All settings can be overridden per game.<br/> <br/> <b>Unified menu</b> means that this emulator's menu can be entered with Start+Select or by flicking the Power switch upwards without pressing other buttons.<br/> <br/> You can read its manual at <a href="http://wiki.gcw-zero.com/PocketSNES">http://wiki.gcw-zero.com/PocketSNES</a> and on your GCW Zero.<br/> <br/> Source code is at <a href="https://github.com/Nebuleon/PocketSNES">https://github.com/Nebuleon/PocketSNES</a> under the Snes9x non-commercial use license.</description>
   </game>
   <game>
     <name>zerox86</name>
     <short>x86 emulator by Patrick Aalto</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=zerox86.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>zerox86.opk</link>
     <preview>files/upload/img/4DOS.png</preview>
     <date>Sunday, 27 Jul 2014</date>
     <author>Patrick Aalto</author>
@@ -468,8 +468,8 @@
   <game>
     <name>Xump</name>
     <short>The Final Run</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=xump_v.1.0-gcw-zero.opk</link>
+    <icon>game_128.png</icon>
+    <link>xump_v.1.0-gcw-zero.opk</link>
     <preview>files/upload/img/xump.png</preview>
     <date>Thursday, 03 Jul 2014</date>
     <author>Retroguru</author>
@@ -480,8 +480,8 @@
   <game>
     <name>Sqrxz</name>
     <short>Mindblasting frustration deluxe!</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=sqrxz-v.1.0b-gcw-zero.opk</link>
+    <icon>game_128.png</icon>
+    <link>sqrxz-v.1.0b-gcw-zero.opk</link>
     <preview>files/upload/img/sqrxz1.png</preview>
     <date>Friday, 20 Jun 2014</date>
     <author>Retroguru</author>
@@ -492,8 +492,8 @@
   <game>
     <name>Fceux 2.2.2</name>
     <short>NES/Famicom emulator</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=fceux.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>fceux.opk</link>
     <preview>files/upload/img/cc8a94da-80f6-11e3-934d-1b6080f2c805.png</preview>
     <date>Sunday, 15 Jun 2014</date>
     <author>Fceux team</author>
@@ -504,8 +504,8 @@
   <game>
     <name>Spout</name>
     <short>A simple caveflying game.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=spout.opk</link>
+    <icon>game_128.png</icon>
+    <link>spout.opk</link>
     <preview>files/upload/img/spout.png</preview>
     <date>Tuesday, 20 May 2014</date>
     <author>Kuni</author>
@@ -516,8 +516,8 @@
   <game>
     <name>Snowman</name>
     <short>A game about a snowman.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=snowman.opk</link>
+    <icon>game_128.png</icon>
+    <link>snowman.opk</link>
     <preview>files/upload/img/snowman.png</preview>
     <date>Tuesday, 20 May 2014</date>
     <author>Ziz</author>
@@ -528,8 +528,8 @@
   <game>
     <name>Puzzletube</name>
     <short>A puzzle game on a tube.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=puzzletube.opk</link>
+    <icon>game_128.png</icon>
+    <link>puzzletube.opk</link>
     <preview>files/upload/img/puzzletube.png</preview>
     <date>Tuesday, 20 May 2014</date>
     <author>Ziz</author>
@@ -540,8 +540,8 @@
   <game>
     <name>Sqrxz 4</name>
     <short>Cold Cash.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=sqrxz4-v.1.00-gcw-zero.opk</link>
+    <icon>game_128.png</icon>
+    <link>sqrxz4-v.1.00-gcw-zero.opk</link>
     <preview>files/upload/img/sqrxz4.png</preview>
     <date>Thursday, 24 Apr 2014</date>
     <author>Retroguru</author>
@@ -552,8 +552,8 @@
   <game>
     <name>Kobo Deluxe</name>
     <short>An addictive space shoot'em up</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=kobodl.opk</link>
+    <icon>game_128.png</icon>
+    <link>kobodl.opk</link>
     <preview>files/upload/img/kobodx.png</preview>
     <date>Tuesday, 22 Apr 2014</date>
     <author>Akira Higuchi, Masanao Izumo, Simon Peter, Florian Schulze, Jeremy Sheeley, Erik Auerswald, David Olofson</author>
@@ -564,8 +564,8 @@
   <game>
     <name>Hocoslamfy</name>
     <short>A paddleball-style game for the GCW Zero</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=hocoslamfy-od.opk</link>
+    <icon>game_128.png</icon>
+    <link>hocoslamfy-od.opk</link>
     <preview>files/upload/img/screenshot162.png</preview>
     <date>Tuesday, 25 Mar 2014</date>
     <author>Nebuleon</author>
@@ -576,8 +576,8 @@
   <game>
     <name>Tile World</name>
     <short>Emulator of the popular puzzle game "Chip's Challenge".</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=tileworld.opk</link>
+    <icon>game_128.png</icon>
+    <link>tileworld.opk</link>
     <preview>files/upload/img/tileworld.png</preview>
     <date>Saturday, 15 Mar 2014</date>
     <author>Dan Silsby (Senor Quack)</author>
@@ -588,8 +588,8 @@
   <game>
     <name>openMSX</name>
     <short>MSX emulator.</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=openmsx-0.10.0.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>openmsx-0.10.0.opk</link>
     <preview>files/upload/img/openMSX-logo-128.png</preview>
     <date>Tuesday, 07 Jan 2014</date>
     <author>openMSX Team</author>
@@ -600,8 +600,8 @@
   <game>
     <name>Blockling</name>
     <short>You are a young blockling who must stack blocks!</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=blockling.opk</link>
+    <icon>game_128.png</icon>
+    <link>blockling.opk</link>
     <preview>files/upload/img/blockling_1.png</preview>
     <date>Monday, 30 Dec 2013</date>
     <author>Andrew Anderson</author>
@@ -612,8 +612,8 @@
   <game>
     <name>EDuke32</name>
     <short>Modern Duke Nukem 3D engine port.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=eduke32.opk</link>
+    <icon>game_128.png</icon>
+    <link>eduke32.opk</link>
     <preview>files/upload/img/</preview>
     <date>Sunday, 29 Dec 2013</date>
     <author>Richard "TerminX" Gobeille, Pierre-Loup "Plagman" Griffais, Philipp "Helixhorned" Kutin and others</author>
@@ -624,8 +624,8 @@
   <game>
     <name>SuperTux</name>
     <short>Platform jump and run game, starring Tux.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=supertux.opk</link>
+    <icon>game_128.png</icon>
+    <link>supertux.opk</link>
     <preview>files/upload/img/supertux2.png</preview>
     <date>Tuesday, 24 Dec 2013</date>
     <author>Tobias Glaesser, Bill Kendrick</author>
@@ -636,8 +636,8 @@
   <game>
     <name>Sparrow C4A Manager</name>
     <short>A Compo4All Manager</short>
-    <icon>images/icons/application_128.png</icon>
-    <link>file.php?file=Sparrow-C4A-Manager.opk</link>
+    <icon>application_128.png</icon>
+    <link>Sparrow-C4A-Manager.opk</link>
     <preview>files/upload/img/sparrow_c4a_manager.png</preview>
     <date>Sunday, 15 Dec 2013</date>
     <author>Ziz</author>
@@ -648,8 +648,8 @@
   <game>
     <name>MazezaM</name>
     <short>Puzzle game involving movable blocks.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=mazezam.opk</link>
+    <icon>game_128.png</icon>
+    <link>mazezam.opk</link>
     <preview>files/upload/img/mazezam_v10_5.png</preview>
     <date>Sunday, 08 Dec 2013</date>
     <author>alekmaul</author>
@@ -660,8 +660,8 @@
   <game>
     <name>Picodrive</name>
     <short>Megadrive / 32X / MegaCD emulator</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=PicoDrive.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>PicoDrive.opk</link>
     <preview>files/upload/img/picodrive_new.png</preview>
     <date>Wednesday, 27 Nov 2013</date>
     <author>notaz</author>
@@ -672,8 +672,8 @@
   <game>
     <name>Sqrxz 2</name>
     <short>Two seconds until death!</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=sqrxz2-v.latest-gcwzero.opk</link>
+    <icon>game_128.png</icon>
+    <link>sqrxz2-v.latest-gcwzero.opk</link>
     <preview>files/upload/img/sqrxz2.png</preview>
     <date>Sunday, 24 Nov 2013</date>
     <author>Retroguru</author>
@@ -684,8 +684,8 @@
   <game>
     <name>Sabre</name>
     <short>Flight simulator with fighter planes of the Korean War era.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=sabre.opk</link>
+    <icon>game_128.png</icon>
+    <link>sabre.opk</link>
     <preview>files/upload/img/screenshot008.png</preview>
     <date>Sunday, 24 Nov 2013</date>
     <author>Dan Hammer</author>
@@ -696,8 +696,8 @@
   <game>
     <name>Spartak Chess</name>
     <short>Spartak Chess is a chess game based on the Stockfish engine.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=spartak-chess.opk</link>
+    <icon>game_128.png</icon>
+    <link>spartak-chess.opk</link>
     <preview>files/upload/img/spartak.png</preview>
     <date>Wednesday, 06 Nov 2013</date>
     <author>djdron</author>
@@ -708,8 +708,8 @@
   <game>
     <name>Stringrolled</name>
     <short>Help a cat and a princess escape a castle.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=stringrolled.opk</link>
+    <icon>game_128.png</icon>
+    <link>stringrolled.opk</link>
     <preview>files/upload/img/stringrolled.png</preview>
     <date>Sunday, 03 Nov 2013</date>
     <author>Logicow</author>
@@ -720,8 +720,8 @@
   <game>
     <name>Griffon Legend</name>
     <short>An action RPG with screen-to-screen map.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=griffon.opk</link>
+    <icon>game_128.png</icon>
+    <link>griffon.opk</link>
     <preview>files/upload/img/gr_legend.png</preview>
     <date>Friday, 11 Oct 2013</date>
     <author>Daniel 'Syn9' Kennedy, music by David Turner</author>
@@ -732,8 +732,8 @@
   <game>
     <name>REminiscence</name>
     <short>Flashback engine reimplementation.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=REminiscence.opk</link>
+    <icon>game_128.png</icon>
+    <link>REminiscence.opk</link>
     <preview>files/upload/img/</preview>
     <date>Sunday, 06 Oct 2013</date>
     <author>Gregory Montoir (Cyx)</author>
@@ -744,8 +744,8 @@
   <game>
     <name>Unnamed Monkey Game (exclusive preview)</name>
     <short>A retro platformer.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=umg-gcw-exclusive-preview-0.4.opk</link>
+    <icon>game_128.png</icon>
+    <link>umg-gcw-exclusive-preview-0.4.opk</link>
     <preview>files/upload/img/umg.png</preview>
     <date>Thursday, 03 Oct 2013</date>
     <author>Artur "Zear" Rojek, Andreas "Harteex" Bjerkeholt, Thorin "Topy" Hopkins, Daniel "Danik" Kvarfordt</author>
@@ -756,8 +756,8 @@
   <game>
     <name>Vectoroids</name>
     <short>Clone of Asteroids</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=vectoroids-1.1.opk</link>
+    <icon>game_128.png</icon>
+    <link>vectoroids-1.1.opk</link>
     <preview>files/upload/img/_vectoroid.png</preview>
     <date>Friday, 13 Sep 2013</date>
     <author>Bill Kendrick (http://www.newbreedsoftware.com/)</author>
@@ -768,8 +768,8 @@
   <game>
     <name>Apricots</name>
     <short>A 2D arcade plane shooter.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=apricots.opk</link>
+    <icon>game_128.png</icon>
+    <link>apricots.opk</link>
     <preview>files/upload/img/apricots.png</preview>
     <date>Sunday, 01 Sep 2013</date>
     <author>Mark Snellgrove, Mark Harman, Judebert, Artur "zear" Rojek</author>
@@ -780,8 +780,8 @@
   <game>
     <name>DOSBox 0.74</name>
     <short>Dos emulator</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=dosbox.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>dosbox.opk</link>
     <preview>files/upload/img/db_op_keyb.png</preview>
     <date>Monday, 12 Aug 2013</date>
     <author>DOSBox team</author>
@@ -792,8 +792,8 @@
   <game>
     <name>Last Mission</name>
     <short>Screen-by-screen maze shooter game with a huge labyrinth.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=last-mission.opk</link>
+    <icon>game_128.png</icon>
+    <link>last-mission.opk</link>
     <preview>files/upload/img/lastmission_new.png</preview>
     <date>Tuesday, 30 Jul 2013</date>
     <author>Pedro Ruiz (OperaSoft)</author>
@@ -804,8 +804,8 @@
   <game>
     <name>SMS_SDL</name>
     <short>Sega Master System &amp; Game Gear emulator</short>
-    <icon>images/icons/emulator_128.png</icon>
-    <link>file.php?file=sms_sdl.opk</link>
+    <icon>emulator_128.png</icon>
+    <link>sms_sdl.opk</link>
     <preview>files/upload/img/sms_sdl.png</preview>
     <date>Sunday, 14 Jul 2013</date>
     <author>Gregory Montoir</author>
@@ -816,8 +816,8 @@
   <game>
     <name>HWTest</name>
     <short>Button and sound hardware test.</short>
-    <icon>images/icons/application_128.png</icon>
-    <link>file.php?file=hwtest_20121208.opk</link>
+    <icon>application_128.png</icon>
+    <link>hwtest_20121208.opk</link>
     <preview>files/upload/img/hwtest.png</preview>
     <date>Tuesday, 09 Jul 2013</date>
     <author>clach04</author>
@@ -828,8 +828,8 @@
   <game>
     <name>Dink Smallwood</name>
     <short>Help a boy become a man on this RTSoft RPG.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=freedink.opk</link>
+    <icon>game_128.png</icon>
+    <link>freedink.opk</link>
     <preview>files/upload/img/dink.png</preview>
     <date>Tuesday, 09 Jul 2013</date>
     <author>Robinson Technologies</author>
@@ -840,8 +840,8 @@
   <game>
     <name>Astro Lander</name>
     <short>A lunar lander game.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=AstroLander.opk</link>
+    <icon>game_128.png</icon>
+    <link>AstroLander.opk</link>
     <preview>files/upload/img/astrolander.png</preview>
     <date>Tuesday, 09 Jul 2013</date>
     <author>Flatmush</author>
@@ -852,8 +852,8 @@
   <game>
     <name>Biniax 2</name>
     <short>An action-puzzle game.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=Biniax2.opk</link>
+    <icon>game_128.png</icon>
+    <link>Biniax2.opk</link>
     <preview>files/upload/img/biniax2.png</preview>
     <date>Tuesday, 09 Jul 2013</date>
     <author>Jordan Tuzsuzov</author>
@@ -864,8 +864,8 @@
   <game>
     <name>Block Rage</name>
     <short>Highly addictive falling blocks game.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=blockrage.opk</link>
+    <icon>game_128.png</icon>
+    <link>blockrage.opk</link>
     <preview>files/upload/img/blockrage.png</preview>
     <date>Tuesday, 09 Jul 2013</date>
     <author>Jiri Svoboda</author>
@@ -876,8 +876,8 @@
   <game>
     <name>Free Doom</name>
     <short>A GPL licensed first person shooter.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=oda_freedoom.opk</link>
+    <icon>game_128.png</icon>
+    <link>oda_freedoom.opk</link>
     <preview>files/upload/img/freedoom.png</preview>
     <date>Tuesday, 09 Jul 2013</date>
     <author>the Freedoom project</author>
@@ -888,8 +888,8 @@
   <game>
     <name>Mine Sweeper</name>
     <short>A mine clearing puzzle game.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=MineSweeper.opk</link>
+    <icon>game_128.png</icon>
+    <link>MineSweeper.opk</link>
     <preview>files/upload/img/minesweeper.png</preview>
     <date>Tuesday, 09 Jul 2013</date>
     <author>Flatmush</author>
@@ -900,8 +900,8 @@
   <game>
     <name>SameGoo</name>
     <short>SameGame style puzzle game.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=SameGoo.opk</link>
+    <icon>game_128.png</icon>
+    <link>SameGoo.opk</link>
     <preview>files/upload/img/samegoo.png</preview>
     <date>Tuesday, 09 Jul 2013</date>
     <author>Harteex</author>
@@ -912,8 +912,8 @@
   <game>
     <name>Sqrxz 3</name>
     <short>Adventure for love.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=sqrxz3-v.1.05r-gcw-zero.opk</link>
+    <icon>game_128.png</icon>
+    <link>sqrxz3-v.1.05r-gcw-zero.opk</link>
     <preview>files/upload/img/sqrxz3.png</preview>
     <date>Tuesday, 09 Jul 2013</date>
     <author>Retroguru</author>
@@ -924,8 +924,8 @@
   <game>
     <name>Powder</name>
     <short>Graphical roguelike.</short>
-    <icon>images/icons/game_128.png</icon>
-    <link>file.php?file=powder_117.opk</link>
+    <icon>game_128.png</icon>
+    <link>powder_117.opk</link>
     <preview>files/upload/img/powder.png</preview>
     <date>Saturday, 06 Jul 2013</date>
     <author>Jeff Lait</author>
