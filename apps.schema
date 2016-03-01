@@ -1,5 +1,5 @@
 CREATE TABLE apps (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id INTEGER NOT NULL,
     name TEXT NOT NULL,
     short TEXT NOT NULL,
     icon TEXT,
@@ -8,5 +8,6 @@ CREATE TABLE apps (
     author TEXT,
     portauthor TEXT,
     homepage TEXT,
-    description TEXT
+    description TEXT,
+    PRIMARY KEY (id)
 );

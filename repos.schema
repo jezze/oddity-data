@@ -1,6 +1,7 @@
 CREATE TABLE repos (
-    id INTEGER PRIMARY KEY NOT NULL,
+    id INTEGER NOT NULL,
     name TEXT NOT NULL,
     url TEXT NUT NULL,
-    enable BOOL NOT NULL
+    enable BOOL NOT NULL,
+    PRIMARY KEY (id)
 );
