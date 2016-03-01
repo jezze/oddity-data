@@ -1,1 +1,1 @@
-INSERT INTO "repos" VALUES(1,'Official','http://gcw.abstraction.se/official.db',1);
+INSERT INTO "repos" VALUES(1,'official.db','Official Apps', 'http://gcw.abstraction.se/official.db',1);

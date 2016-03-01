@@ -1,12 +1,8 @@
-DATABASES=db/repos.db db/apps.db db/official.db
+DATABASES=db/local.db db/official.db
 
 all: ${DATABASES}
 
-db/repos.db: repos.schema repos.data
-	mkdir -p db
-	cat $^ | sqlite3 $@
-
-db/apps.db: apps.schema packages.schema
+db/local.db: repos.schema repos.data apps.schema packages.schema
 	mkdir -p db
 	cat $^ | sqlite3 $@
 
