@@ -1,0 +1,1 @@
+INSERT INTO "remotes" VALUES(1,'Official Apps', 'http://gcw.abstraction.se/official.db',1);

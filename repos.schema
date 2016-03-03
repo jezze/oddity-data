@@ -1,8 +1,0 @@
-CREATE TABLE repos (
-    id INTEGER NOT NULL,
-    filename TEXT NOT NULL,
-    name TEXT NOT NULL,
-    url TEXT NUT NULL,
-    enable BOOL NOT NULL,
-    PRIMARY KEY (id)
-);

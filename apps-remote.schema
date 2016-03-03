@@ -1,0 +1,1 @@
+CREATE TABLE apps (id INTEGER NOT NULL,name TEXT NOT NULL,short TEXT NOT NULL,icon TEXT,preview TEXT,date TEXT,author TEXT,portauthor TEXT,homepage TEXT,description TEXT,PRIMARY KEY (id));
