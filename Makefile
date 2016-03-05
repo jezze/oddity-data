@@ -1,4 +1,4 @@
-DATABASES=db/data.db db/remote_1.db
+DATABASES=db/data.db db/official.db
 
 all: ${DATABASES}
 
@@ -9,7 +9,7 @@ db/data.db: remotes.schema remotes.data apps.schema packages.schema
 apps-official.data: data.xsl data.xml
 	xsltproc data.xsl data.xml > $@
 
-db/remote_1.db: apps-remote.schema apps-official.data packages-remote.schema packages-official.data
+db/official.db: apps-remote.schema apps-official.data packages-remote.schema packages-official.data
 	mkdir -p db
 	cat $^ | sqlite3 $@
 
