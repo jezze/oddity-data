@@ -75,3 +75,4 @@ INSERT INTO "packages" VALUES(74,33,'wetspot2.opk','2016-02-29','8b525628ccb0249
 INSERT INTO "packages" VALUES(75,28,'wvector.opk','2016-02-29','89e9c111843f9d4fcb0c9fe90da8ab0365020123');
 INSERT INTO "packages" VALUES(76,39,'xump_v.1.0-gcw-zero.opk','2016-02-29','86ff179afa492e0881044fc5d6ff97f5ba50a48b');
 INSERT INTO "packages" VALUES(77,38,'zerox86.opk','2016-02-29','b0ac3557c7258cc8a3d195ac05d07074218759a3');
+INSERT INTO "packages" VALUES(78,78,'scummvm-1.8.0-gcw0.opk','2016-03-08','3c834a2e52ec7cdabfa1cb47426f7e411885a4d6');
