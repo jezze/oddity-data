@@ -1,19 +1,16 @@
-DATABASES=db/data.db db/official.db db/extra.db
+DATABASES=db/local.db db/official.db db/extra.db
 
 all: ${DATABASES}
 
-db/data.db: remotes.schema remotes.data apps.schema packages.schema
+db/local.db: remotes.schema apps.schema packages.schema local/remotes.data
 	mkdir -p db
 	cat $^ | sqlite3 $@
 
-apps-official.data: data.xsl data.xml
-	xsltproc data.xsl data.xml > $@
-
-db/official.db: apps-remote.schema apps-official.data packages-remote.schema packages-official.data
+db/official.db: apps.schema packages.schema official/apps.data official/packages.data
 	mkdir -p db
 	cat $^ | sqlite3 $@
 
-db/extra.db: apps-remote.schema apps-extra.data packages-remote.schema packages-extra.data
+db/extra.db: apps.schema packages.schema extra/apps.data extra/packages.data
 	mkdir -p db
 	cat $^ | sqlite3 $@
 

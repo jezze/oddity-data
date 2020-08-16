@@ -1,0 +1,27 @@
+INSERT INTO "packages" (
+    apps_id,
+    date,
+    revision,
+    version,
+    sha1
+) VALUES (
+    'CAVSTY',
+    '2020-08-16',
+    1,
+    NULL,
+    '8b721e63372bb2b4e5039c049964cd671a5d17c7'
+);
+
+INSERT INTO "packages" (
+    apps_id,
+    date,
+    revision,
+    version,
+    sha1
+) VALUES (
+    'GIANAR',
+    '2020-08-16',
+    1,
+    NULL,
+    'c98ca6d6775fad54ea5b99cfe18dfe80d15cf4d5'
+);

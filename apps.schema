@@ -1,1 +1,8 @@
-CREATE TABLE apps (remotes_id INTEGER NOT NULL, id INTEGER NOT NULL,name TEXT NOT NULL,short TEXT NOT NULL,icon TEXT,preview TEXT,date TEXT,author TEXT,portauthor TEXT,homepage TEXT,description TEXT,state INTEGER,PRIMARY KEY (remotes_id,id));
+CREATE TABLE apps (
+    id CHAR(6) PRIMARY KEY,
+    name TEXT NOT NULL,
+    short TEXT NOT NULL,
+    author TEXT,
+    homepage TEXT,
+    description TEXT
+);

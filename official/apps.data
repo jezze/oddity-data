@@ -1,0 +1,31 @@
+INSERT INTO "apps" (
+    id,
+    name,
+    short,
+    author,
+    homepage,
+    description
+) VALUES (
+    'CAVSTY',
+    'Cave story',
+    'Cave story',
+    NULL,
+    NULL,
+    NULL
+);
+
+INSERT INTO "apps" (
+    id,
+    name,
+    short,
+    author,
+    homepage,
+    description
+) VALUES (
+    'GIANAR',
+    'Giana''s Return',
+    'Unofficial sequel to "The Great Giana Sisters"',
+    'Retroguru (Port by Artur "zear" Rojek)',
+    'http://www.gianas-return.de/',
+    'Giana''s Return aims to be a worthy unofficial sequel of "The Great Giana Sisters" - an alltime classic Jump''N''Run game made in the late eighties mainly by Armin Gessert, Manfred Trenz and Chris Hülsbeck, which gained massive attention as "Super Mario" copy, but still had its very own charm and fan base. Story: Evil Swampy and his followers have stolen the magic ruby, which made it once possible for Giana and Maria to return from their dream. Many creatures are after this ruby, but does it really have power, or was it just a coincidence? As this is not bad enough, Swampy fell in love at first sight with Giana''s sister Maria and shamelessly kidnapped her. She simply has been at the wrong place at the wrong time. You take over the role of Giana, get back the magic ruby and most important of all, save your beloved sister Maria and get home save! Good Luck! Legal: Giana''s Return is 100% FREEWARE and does not cost you a single cent, should you have paid for it please let us know so we can take legal steps and help others to avoid a possible trap. You are not allowed to distribute the download on any medias or online places without written permission. Official mirrors are available and listed on the official homepage - Please respect this! Contact information is available at it''s official page!  "The Great Giana Sisters" is a registered trademark. The Team behind this game does not intend to break any copyright, but to bring a high quality fan sequel free of charge to all Giana fans out there. Permission has been granted from the actual owners.  No one of the original team was involved in the creation of this game, besides Armin and Manfred giving feedback on (for now) pretty old betas.'
+);

@@ -1,0 +1,11 @@
+INSERT INTO "remotes" (
+    name,
+    urldatabase,
+    urlpackages,
+    enable
+) VALUES (
+    'Official Apps',
+    'http://gcw.abstraction.se/official.db',
+    'http://gcw.abstraction.se/packages',
+    1
+);
